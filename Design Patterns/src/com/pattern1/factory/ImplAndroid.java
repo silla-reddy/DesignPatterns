@@ -1,4 +1,4 @@
-package com.pattern1.Factory;
+package com.pattern1.factory;
 
 public class ImplAndroid implements InterfaceOS {
 	
